@@ -13,5 +13,3 @@
 * Подвал
 * Поисковая строка
 * Блоки с контентом
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Dmitrydev1/qa-engineer-my-project-1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Dmitrydev1/qa-engineer-my-project-1/actions)
